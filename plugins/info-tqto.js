@@ -18,11 +18,11 @@ let tqto = `*▸ - - - —「 BIG THANKS TO 」— - - - ◂*
 *❉ Ayang Gw:*
 
 *▸ - - - —「 Thanks For Team 」— - - - ◂*
-*❉ Nizar Rahman:*
-*❉ Irham:*
-*❉ Adyran:*
+*❉ Nizar Rahman:*https://instagram.com/nizarrahman.f_
+*❉ Irham:* https://instagram.com/yuki_sen23
+*❉ Adyran:* https://instagram.com/adrynngrha
 *▸ - - - —「 Thanks For Support system 」— - - - ◂*
-*❉ Noviana Suntana 🤍:*
+*❉ Ortu Gw:*
 
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
