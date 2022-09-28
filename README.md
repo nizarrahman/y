@@ -39,7 +39,7 @@
 | **Node.js**     | heroku/nodejs|
 
 # Creator Bot
-[![WH_MODS_DEV](https://github.com/Wahidhidayatulla.png?size=200)](https://github.com/Wahidhidayatulla) 
+[![WH_MODS_DEV](https://github.com/Wahidhidayatulla.png?size=200)](https://github.com/nizarrahman) 
 
-[WH_MODS_DEV](https://github.com/Wahidhidayatulla)
+[Nizar Rahman](https://github.com/nizarrahman)
 Creator
