@@ -30,7 +30,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/nizarrrahman.f&'
+global.sig = 'https://instagram.com/nizarrrahman.f_'
 global.sgh = '-' //github
 global.sgc = 'https://chat.whatsapp.com/LvJgI6TTVn0B2r8cpUBSQL' //group whatsapp
 global.sdc = '-' //discord
