@@ -169,7 +169,7 @@ global.fpagedoc = '999'
 // DEFAULT MENU
 global.dmenut = 'ଓ═┅═━–〈' //top
 global.dmenub = '┊↬' //body
-global.dmenub2 = '┊' //body for info cmd on Default menu
+global.dmenub2 = '┊' //body for info cmd onh Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
 // COMMAND MENU
